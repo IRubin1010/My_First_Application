@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="packageTypeArray">
+        <item>מעטפה</item>
+        <item>חבילה קטנה</item>
+        <item>חבילה גדולה</item>
+    </string-array>
+
+    <string-array name="fragileArray">
+        <item>שביר</item>
+        <item>לא שביר</item>
+    </string-array>
+
+    <string-array name="weightArray">
+        <item>עד 500 גרם</item>
+        <item>עד ק"ג</item>
+        <item>עד 5 ק"ג</item>
+        <item>עד 20 ק"ג</item>
+    </string-array>
+
+</resources>
